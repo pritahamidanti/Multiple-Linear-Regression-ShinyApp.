@@ -8,3 +8,6 @@ This repository contains the source code for a Shiny Dashboard implementing a Mu
 - **Prediction:** Input new values to predict monthly sales volume.
 - **Assumption Checking:** Evaluate regression assumptions through diagnostic plots.
 - **Interaction Analysis:** Assess interaction effects and visualize with interactive plots.
+
+## App is deployed at:
+https://pritahamidanti.shinyapps.io/PROJECT_UAS1/ 
